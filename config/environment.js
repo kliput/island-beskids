@@ -4,7 +4,7 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'island-beskids',
     environment,
-    rootURL: '/',
+    rootURL: '/island-beskids',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
